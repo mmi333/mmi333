@@ -1,31 +1,9 @@
-### Hi there 👋
-
-<!--
-**mmi333/mmi333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hello there, I'm Mohamed Mohey!
 
 
-[[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MohamedMohey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mohey-1454ba202/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MohamedMohey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mohey-1454ba202/)
 
 Into software since I was 12, into Machine Learning since I was 15, and currently interested in getting cutting-edge Deep Learning research into widespread use in websites!
-
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mmi333/mmi333/blob/main/devcard.svg" width="250" align="right" alt="Mohamed Mohey's Dev Card"/></a>
-<!-- markdownlint-enable MD033 -->
 
 
 ## 🛠️ My Skill Set
@@ -46,14 +24,3 @@ Into software since I was 12, into Machine Learning since I was 15, and currentl
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Mohamed Mohey Github Stats](https://readme-stats.mmi333.com/api?username=mmi333&show_icons=true&count_private=true)](https://github.com/mmi333/github-readme-stats) [![Top Language](https://readme-stats.mmi333.com/api/top-langs?username=mmi333&layout=compact)](https://github.com/mmi333/github-readme-stats)
-
-</details>
-
-<!-- markdownlint-enable MD033 -->
-
-![Metrics](https://github.com/mmi333/mmi333/blob/main/github-metrics.svg)
