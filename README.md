@@ -1,7 +1,7 @@
 # Hello there, I'm Mohamed Mohey!
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MohamedMohey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mohey-1454ba202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mohey-1454ba202/)
 
 Into software since I was 12, into Machine Learning since I was 15, and currently interested in getting cutting-edge Deep Learning research into widespread use in websites!
 
